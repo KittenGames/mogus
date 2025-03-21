@@ -1,1 +1,1 @@
-Packged version of amongus online scratch game
+Scratch games
